@@ -11,7 +11,7 @@ I'm a fresh Computer Science graduate and love making Android Apps!
 *   🧠  I'm learning Github
 *   🤝  I'm open to collaborating on Android related projects
 
-<a href="https://www.github.com/hussain-abdullah-gilani" target="_blank" rel="noreferrer"><img
+  <a href="https://www.github.com/hussain-abdullah-gilani" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/hussain-abdullah-gilani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
 <p align="left">
