@@ -14,7 +14,7 @@ I'm a fresh Computer Science graduate and love making Android Apps!
 
 *   🌍  I'm based in Islamabad
 *   ✉️  You can contact me at [hussainabdullah0@gmail.com](mailto:hussainabdullah0@gmail.com)
-*   🧠  I'm learning Github
+*   🧠  I'm learning Kotlin
 *   🤝  I'm open to collaborating on Android related projects
 
   <a href="https://www.github.com/hussain-abdullah-gilani" target="_blank" rel="noreferrer"><img
