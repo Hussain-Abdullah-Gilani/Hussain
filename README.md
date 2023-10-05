@@ -6,10 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 -----------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-abdullah-gilani&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-abdullah-gilani" /> </p>
-
-
-
 I'm a fresh Computer Science graduate and love making Android Apps!
 
 *   🌍  I'm based in Islamabad
