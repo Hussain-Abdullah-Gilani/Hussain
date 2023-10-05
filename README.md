@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussain Abdullah Gilani
 ===============================================================================================================================================
 
-Android Developer
------------------
-
+Avid Android Developer
+----------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-abdullah-gilani&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-abdullah-gilani" /> </p>
 
+# 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hussain-abdullah-gilani&title=Commits,Experience,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm a fresh Computer Science graduate and love making Android Apps!
