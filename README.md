@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 -----------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-abdullah-gilani&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-abdullah-gilani" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain-abdullah-gilani" alt="hussain-abdullah-gilani" /></a> </p>
+
 I'm a fresh Computer Science graduate and love making Android Apps!
 
 *   🌍  I'm based in Islamabad
